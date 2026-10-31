@@ -75,7 +75,7 @@
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/document-rag-chatbot.git
+git clone https://github.com/sivasai1015/document-rag-chatbot.git
 cd document-rag-chatbot
 
 pip install -r requirements.txt
